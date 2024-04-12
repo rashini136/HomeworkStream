@@ -64,7 +64,7 @@ program_homework = {
             {"Homework": "Name Animation Programming","Deadline": "2024-04-28", "Resources": "https://meulabslk.sharepoint.com/:t:/s/content/EYqUa8akonlPmedoc1OOpv4BUkGQuQJ40j4yRn3Nepv5Ww?e=D89N7O", "Video":"https://youtu.be/snVFZeRJAsw?si=RZjOIPMG02oGrggb"},
             {"Homework": "Rocket Navigation game", "Deadline": "2024-05-07", "Resources": "https://meulabslk.sharepoint.com/:t:/s/content/EYqUa8akonlPmedoc1OOpv4BUkGQuQJ40j4yRn3Nepv5Ww?e=D89N7O","Video":"RocketNG.mp4"},
             {"Homework": "Rocket Navigation game", "Deadline": "2024-05-14", "Resources": "https://meulabslk.sharepoint.com/:t:/s/content/EYqUa8akonlPmedoc1OOpv4BUkGQuQJ40j4yRn3Nepv5Ww?e=D89N7O", "Video":"RocketNG.mp4"},
-            {"Homework": "Crew selection simulation - Strategy", "Deadline": "2024-05-21", "Resources": "https://meulabslk.sharepoint.com/:p:/s/content/Ea9IWg1B7EZEsYNZt9j_NdIBZfWA5jK_ZMv6VnT9e8WNBg?e=PEvnSl","Sample":"CSG.png"},
+            {"Homework": "Crew selection simulation", "Deadline": "2024-05-21", "Resources": "https://meulabslk.sharepoint.com/:p:/s/content/Ea9IWg1B7EZEsYNZt9j_NdIBZfWA5jK_ZMv6VnT9e8WNBg?e=PEvnSl","Sample":"CSG.png"},
             {"Homework": "Video Animation Story Board", "Deadline": "2024-05-28", "Resources":"", "Sample":"storyboard.png"},
             {"Homework": "Video Animation", "Deadline": "2024-06-07", "Resources": "", "Video":"Team Alpha plotagon.mp4"},
             {"Homework": "Video Editing", "Deadline": "2024-06-14", "Resources": "", "Video":"Team Alpha plotagon.mp4"},
